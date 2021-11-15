@@ -1,0 +1,2 @@
+# doc-scripsi
+untuk scripsi
